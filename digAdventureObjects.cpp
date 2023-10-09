@@ -1,9 +1,6 @@
 /*
-* Name: Billy Myers, 5004892732, Assignment 5
-* Description: a brief description of the program.
-* Input: Seed, Grid Height, Grid Length
-* Output: a game where the player mines through a 2D grid full of rocks,
-* treasure, armor, and carnivorous silverfish!
+A game where the player mines through a 2D grid full of rocks,
+treasure, armor, and carnivorous silverfish!
 */
 
 #include "digAdventureObjects.h"
